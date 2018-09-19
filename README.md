@@ -15,5 +15,7 @@ I hope you enjoy reading.
 Reports
 
 <a href="https://www.reddit.com/r/ModernMagic/comments/9em2io/report_pptq_first_place_with_mono_blue_tron/"> PPTQ 1st Place Report</a>
+
 <a href="https://www.reddit.com/r/ModernMagic/comments/8lhz9k/40_last_night_with_mono_u_tron/"> 4-0 FMN</a>
+
 <a href="https://www.reddit.com/r/TronMTG/comments/8b14z6/u_went_40_last_fnm/"> 4-0 FNM</a>
