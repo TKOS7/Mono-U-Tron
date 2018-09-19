@@ -9,3 +9,5 @@ Mono U Tron is a slow, draw-go blue control deck that seeks to delay and disrupt
 The deck is largely misunderstood as being a version of more conventional Green Tron decks that just happens to splash Blue instead. This is incorrect, in fact we ae a version of other Blue control decks that just happens to include the Urza Lands. As a result, our deck playes very differently to conventional Tron decks, and this website is intended as a resource to highlight that change to those piloting the deck, and bring Utron out of the shadow of its bigger brother.
 
 I hope you enjoy reading.
+
+<a href="Mono-U-Tron/Primer - Mono U Tron v1.0.pdf" download>Mono U Tron Primer</a>
