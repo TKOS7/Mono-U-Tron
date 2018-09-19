@@ -11,3 +11,5 @@ The deck is largely misunderstood as being a version of more conventional Green 
 I hope you enjoy reading.
 
 <a href="https://raw.githubusercontent.com/TKOS7/Mono-U-Tron/master/Primer - Mono U Tron v1.0.pdf" download>Mono U Tron Primer - Download</a>
+
+<a href="https://www.reddit.com/r/ModernMagic/comments/9em2io/report_pptq_first_place_with_mono_blue_tron/" PPTQ 1st Place Report</a>
