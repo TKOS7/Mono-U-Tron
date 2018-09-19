@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Mono U Tron
 
-You can use the [editor on GitHub](https://github.com/TKOS7/Mono-U-Tron/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to a small site dedicated to the best deck in Modern, Mono U Tron.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mono U Tron is a slow, draw-go blue control deck that seeks to delay and disrupt the opponent’s strategy and then use stabilising threats to take over the game. UTron is unique in that it generates more card and mana advantage than any other control deck in Modern. Our deck includes the 'Tron' lands (Urza's Mine, Power Plant and Tower) to allow us to leap ahead on mana and play a control game from a very privileged position, and uses value control magic and Thirst For Knowledge to generate insane card advantage. The deck wins by using Mindslaver and Academy Ruins to take over all of its opponent's turns.
 
-```markdown
-Syntax highlighted code block
+The deck is largely misunderstood as being a version of more conventional Green Tron decks that just happens to splash Blue instead. This is incorrect, in fact we ae a version of other Blue control decks that just happens to include the Urza Lands. As a result, our deck playes very differently to conventional Tron decks, and this website is intended as a resource to highlight that change to those piloting the deck, and bring Utron out of the shadow of its bigger brother.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TKOS7/Mono-U-Tron/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I hope you enjoy reading.
