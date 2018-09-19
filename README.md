@@ -10,4 +10,4 @@ The deck is largely misunderstood as being a version of more conventional Green 
 
 I hope you enjoy reading.
 
-<a href="Mono-U-Tron/Primer - Mono U Tron v1.0.pdf" download>Mono U Tron Primer</a>
+<a href="Mono-U-Tron/Primer - Mono U Tron v1.0.pdf?raw=true" download>Mono U Tron Primer</a>
