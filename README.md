@@ -10,9 +10,15 @@ Welcome to a small site dedicated to the best deck in Modern, Mono U Tron.
 
 I hope you enjoy reading.
 
+<hr>
+
 Primer
 
 <a href="https://raw.githubusercontent.com/TKOS7/Mono-U-Tron/master/Primer - Mono U Tron v1.1.pdf" download>Mono U Tron Primer - Download</a>
+
+<p style="font-size:8px"><a href="https://www.reddit.com/r/ModernMagic/comments/9h4up6/primer_mono_u_tron_a_fully_comprehensive_99page/">Reddit Thread</a>  /  <a href="https://twitter.com/TolarianCollege/status/1042417868149682177">Tolarian Community</a>   /   <a href="https://twitter.com/SaffronOlive/status/1042426778474692608">Saffron Olive</a></p>
+
+<hr>
 
 Author Match Reports
 
