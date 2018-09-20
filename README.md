@@ -12,7 +12,7 @@ I hope you enjoy reading.
 
 <hr>
 
-Primer
+### Primer
 
 <a href="https://raw.githubusercontent.com/TKOS7/Mono-U-Tron/master/Primer - Mono U Tron v1.1.pdf" download>Mono U Tron Primer - Download</a>
 
@@ -20,7 +20,7 @@ Primer
 
 <hr>
 
-Author Match Reports
+### Author Match Reports
 
 <a href="https://www.reddit.com/r/ModernMagic/comments/9em2io/report_pptq_first_place_with_mono_blue_tron/"> PPTQ 1st Place Report</a>
 
