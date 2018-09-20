@@ -4,9 +4,9 @@
 Welcome to a small site dedicated to the best deck in Modern, Mono U Tron.
 
 
-Mono U Tron is a slow, draw-go blue control deck that seeks to delay and disrupt the opponent’s strategy and then use stabilising threats to take over the game. UTron is unique in that it generates more card and mana advantage than any other control deck in Modern. Our deck includes the 'Tron' lands (Urza's Mine, Power Plant and Tower) to allow us to leap ahead on mana and play a control game from a very privileged position, and uses value control magic and Thirst For Knowledge to generate insane card advantage. The deck wins by using Mindslaver and Academy Ruins to take over all of its opponent's turns.
+<p align="justify"> Mono U Tron is a slow, draw-go blue control deck that seeks to delay and disrupt the opponent’s strategy and then use stabilising threats to take over the game. UTron is unique in that it generates more card and mana advantage than any other control deck in Modern. Our deck includes the 'Tron' lands (Urza's Mine, Power Plant and Tower) to allow us to leap ahead on mana and play a control game from a very privileged position, and uses value control magic and Thirst For Knowledge to generate insane card advantage. The deck wins by using Mindslaver and Academy Ruins to take over all of its opponent's turns. </p>
 
-The deck is largely misunderstood as being a version of more conventional Green Tron decks that just happens to splash Blue instead. This is incorrect, in fact we ae a version of other Blue control decks that just happens to include the Urza Lands. As a result, our deck plays very differently to conventional Tron decks, and this website is intended as a resource to highlight that difference to those piloting the deck, and bring UTron out of the shadow of its bigger brother.
+<p align="justify"> The deck is largely misunderstood as being a version of more conventional Green Tron decks that just happens to splash Blue instead. This is incorrect, in fact we ae a version of other Blue control decks that just happens to include the Urza Lands. As a result, our deck plays very differently to conventional Tron decks, and this website is intended as a resource to highlight that difference to those piloting the deck, and bring UTron out of the shadow of its bigger brother. </p>
 
 I hope you enjoy reading.
 
