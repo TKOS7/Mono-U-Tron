@@ -14,7 +14,9 @@ I hope you enjoy reading.
 
 Primer
 
-<a href="https://raw.githubusercontent.com/TKOS7/Mono-U-Tron/master/Mono U Tron v2.0.pdf" download>Mono U Tron Primer - Download</a>
+<a href="https://payhip.com/TKOS7">Mono U Tron Primer - Download Latest Version (2023) </a>
+
+<a href="https://raw.githubusercontent.com/TKOS7/Mono-U-Tron/master/Mono U Tron v2.0.pdf" download>Mono U Tron Primer - Download Previous Version (2020 - free)</a>
 
 <p style="color:blue" style="font-size:12px"><a href="https://www.reddit.com/r/ModernMagic/comments/9h4up6/primer_mono_u_tron_a_fully_comprehensive_99page/">Reddit Thread</a>  /  <a href="https://twitter.com/TolarianCollege/status/1303711323465818112">Tolarian Community</a>   /   <a href="https://twitter.com/SaffronOlive/status/1042426778474692608">Saffron Olive</a></p>
 
